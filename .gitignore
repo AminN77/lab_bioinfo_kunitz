@@ -2,7 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
-
+.DS_Store
 # C extensions
 *.so
 
@@ -51,6 +51,7 @@ coverage.xml
 .pytest_cache/
 cover/
 
+.DS_Store/
 # Translations
 *.mo
 *.pot
