@@ -1,0 +1,5 @@
+Model,Mean MCC ± SD,Mean Precision,Mean Recall
+Ours (E-value),0.9438 ± 0.0140,0.9063,0.9833
+Ours (Bit-score),0.9380 ± 0.0144,0.8952,0.9833
+Pfam (E-value),0.9464 ± 0.0119,0.9087,0.9861
+Pfam (Bit-score),0.9486 ± 0.0091,0.9025,0.9972
